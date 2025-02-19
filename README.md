@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Udaya</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm Udaya .A software developer." alt="Typing SVG" /></a>
-<h3 align="center">A passionate frontend developer from Sri Lankam India</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayacgamage&label=Profile%20views&color=0e75b6&style=flat" alt="udayacgamage" /> </p>
 
 
 - 🔭 I’m currently working on **java.**
 
-- 🌱 I’m currently **undergraduate at the University of Sri Jayewardenepure.**
+- 🌱 I’m currently **undergraduate at the University of Sri Jayewardenepura.**
 
 - 📫 How to reach me **udayacgamage@gmail.com**
 
