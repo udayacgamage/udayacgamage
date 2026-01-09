@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udaya</h1>
-<a href="https://git.io/t<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I%27m+Udaya.;A+software+developer."
-       alt="Typing SVG" />
-</a>yping-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm Udaya .A software developer." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!+I'm+Udaya+Chathuranga.;A+Software+Developer+%26+Networking+Engineer)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayacgamage&label=Profile%20views&color=0e75b6&style=flat" alt="udayacgamage" /> </p>
